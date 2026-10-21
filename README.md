@@ -247,11 +247,6 @@ Table: **`employees`**
 
 ## 👤 Author
 
-**Tuhin Roy**
-Final-year BCA student, JIS University, Kolkata
-Interested in Data Analytics, SQL and AI/ML
-
-- GitHub: [TuhinRoy07]
----
+**Gourab Mondal**
 
 ⭐ Thank You For Visiting !!!
